@@ -12,7 +12,8 @@
     ],
     "curly": true,
     "deprecation": {
-      "severity": "warn"
+      "severity": "warn",
+      "spaces" : "teste"
     },
     "eofline": true,
     "forin": true,
