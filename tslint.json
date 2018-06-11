@@ -9,7 +9,6 @@
     "comment-format": [
       true,
       "check-space"
-      
     ],
     "curly": true,
     "deprecation": {
